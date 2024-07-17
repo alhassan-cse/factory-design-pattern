@@ -1,0 +1,17 @@
+
+
+  amr jamon class crate abong object neya kaj kori 
+  apni jamon object neya kaj korben er pichone complexjiti gulo ace sei gula ariya tokhn factory design parttern
+  jamon client bollo akta system create korte hobe, jokhn issa tokhn database driver support dite parben tahole factory parteern.
+
+
+
+
+
+
+
+
+
+
+
+
